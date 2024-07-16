@@ -1,0 +1,7 @@
+netty:
+  mqtt:
+    port: 1883 # MQTT 服务器端口
+  websocket:
+    port: 8080 # WebSocket 服务器端口
+  tcp:
+    port: 9000 # TCP 服务器端口
